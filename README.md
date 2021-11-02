@@ -14,4 +14,6 @@
 [github](https://github.com/MMmaXingXing/Algorithm/blob/master/javascriptDataStructure/ListNode.ts)
 ##### 链表基础（2021.11.01）
 [掘金](https://juejin.cn/post/7025621008614719496)
+##### 排序算法-插入（2021.11.02）
+[github](https://github.com/MMmaXingXing/Algorithm/tree/master/javascriptDataStructure/Sorting)
 
