@@ -16,4 +16,7 @@
 [掘金](https://juejin.cn/post/7025621008614719496)
 ##### 排序算法-插入（2021.11.02）
 [github](https://github.com/MMmaXingXing/Algorithm/tree/master/javascriptDataStructure/Sorting)
+##### 周三周四刷题任务两道题（2021.11.03）
+leetcode, 912、排序数组, 9、回文数
+[github](https://github.com/MMmaXingXing/Algorithm/tree/master)
 
