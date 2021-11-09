@@ -38,5 +38,15 @@ https://www.wolai.com/5FW912KLQTdUkctXhLrrw6?theme=dark
 ##### 2021.11.07
 - 刷题 -- 92.反转链表2、206.反转链表递归实现、25.k个一组翻转链表  
 [github](https://github.com/MMmaXingXing/Algorithm)  
+##### 2021.11.08
+- 刷题  
+ 19.删除链表倒数第n个节点  
+202.快乐数  
+344.反转字符串  
+83.删除排序链表中的重复元素  
+141.环形链表  
+61.旋转链表   
+[github](https://github.com/MMmaXingXing/Algorithm)
+
 
 
