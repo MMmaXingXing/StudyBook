@@ -47,6 +47,14 @@ https://www.wolai.com/5FW912KLQTdUkctXhLrrw6?theme=dark
 141.环形链表  
 61.旋转链表   
 [github](https://github.com/MMmaXingXing/Algorithm)
-
+##### 2021.11.09
+### 昨天完成
+- 刷题  
+24.两两交换链表中的节点  
+82.删除排序链表中的重复元素  
+offer2-004.只出现一次的数字  
+Offer06.从尾到头打印链表  
+面试02.02.返回倒数第k个节点  
+[github](https://github.com/MMmaXingXing/Algorithm)
 
 
