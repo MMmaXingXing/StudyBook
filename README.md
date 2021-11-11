@@ -56,5 +56,7 @@ offer2-004.只出现一次的数字
 Offer06.从尾到头打印链表  
 面试02.02.返回倒数第k个节点  
 [github](https://github.com/MMmaXingXing/Algorithm)
-
+##### 2021.11.10
+梳理了链表基础已录屏，输出B站 
+[B站](https://www.bilibili.com/video/BV1Vv411M72T/)
 
