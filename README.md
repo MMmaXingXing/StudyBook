@@ -59,4 +59,7 @@ Offer06.从尾到头打印链表
 ##### 2021.11.10
 梳理了链表基础已录屏，输出B站 
 [B站](https://www.bilibili.com/video/BV1Vv411M72T/)
+##### 2021.11.11
+- 刷题 86.分隔链表，输出B站 
+[B站](https://b23.tv/3kULMw)
 
