@@ -48,7 +48,6 @@ https://www.wolai.com/5FW912KLQTdUkctXhLrrw6?theme=dark
 61.旋转链表   
 [github](https://github.com/MMmaXingXing/Algorithm)
 ##### 2021.11.09
-### 昨天完成
 - 刷题  
 24.两两交换链表中的节点  
 82.删除排序链表中的重复元素  
@@ -63,7 +62,6 @@ Offer06.从尾到头打印链表
 - 刷题 86.分隔链表，输出B站 
 [B站](https://b23.tv/3kULMw)
 ##### 2021.11.12
-### 昨天完成
 - 环形链表，输出B站 
 [B站](https://www.bilibili.com/video/BV1Nq4y167L9/)
 
