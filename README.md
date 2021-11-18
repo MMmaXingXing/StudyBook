@@ -64,6 +64,13 @@ Offer06.从尾到头打印链表
 ##### 2021.11.12
 - 环形链表，输出B站 
 [B站](https://www.bilibili.com/video/BV1Nq4y167L9/)
+##### 2021.11.13
+- 242.有效的字母异位词
+[github](https://github.com/MMmaXingXing/Algorithm)
+##### 2021.11.14
+练车准备科目二考试
+##### 2021.11.15
+科目二考试通过
 ##### 2021.11.16
 - 二叉树的前序遍历输出
 - [掘金](https://juejin.cn/post/7031514895333982221)
