@@ -58,40 +58,39 @@
 
 #### 2021.12.16
 
-- [github] [509.斐波那契数](https://github.com/MMmaXingXing/Algorithm/blob/master/509.%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0.js)
+- [[github] [509.斐波那契数]](https://github.com/MMmaXingXing/Algorithm/blob/master/509.%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0.js)
 - 船长二叉树课程 1 个小时
 
 #### 2021.12.15
 
-- [github] [138.复制带随机指针的链表](https://github.com/MMmaXingXing/Algorithm/blob/master/138.%E5%A4%8D%E5%88%B6%E5%B8%A6%E9%9A%8F%E6%9C%BA%E6%8C%87%E9%92%88%E7%9A%84%E9%93%BE%E8%A1%A8.js)
-- [掘金][138.复制带随机指针的链表](https://juejin.cn/post/7041590299394572301/)
+- [[github] [138.复制带随机指针的链表]](https://github.com/MMmaXingXing/Algorithm/blob/master/138.%E5%A4%8D%E5%88%B6%E5%B8%A6%E9%9A%8F%E6%9C%BA%E6%8C%87%E9%92%88%E7%9A%84%E9%93%BE%E8%A1%A8.js)
+- [[掘金][138.复制带随机指针的链表]](https://juejin.cn/post/7041590299394572301/)
 - 船长二叉树课程前一个小时
 
 #### 2021.12.14
 
-- [github] [622.设计循环队列](https://github.com/MMmaXingXing/Algorithm/blob/master/622.%E8%AE%BE%E8%AE%A1%E5%BE%AA%E7%8E%AF%E9%98%9F%E5%88%97.js)
-- [掘金][622.设计循环队列](https://juejin.cn/post/7041222137582977031/)
+- [[github] [622.设计循环队列]](https://github.com/MMmaXingXing/Algorithm/blob/master/622.%E8%AE%BE%E8%AE%A1%E5%BE%AA%E7%8E%AF%E9%98%9F%E5%88%97.js)
+- [[掘金][622.设计循环队列]](https://juejin.cn/post/7041222137582977031/)
 
 #### 2021.12.13
 
-- [掘金] [[路飞]leetcode-递归调用解决二叉树的遍历](https://juejin.cn/post/7031514895333982221/)新增动画实现
-- [B 站] [145.二叉树的后序遍历](https://www.bilibili.com/video/BV1pY411W7Gm/)
-- [github] [迭代法实现二叉树的后续遍历](https://github.com/MMmaXingXing/Algorithm/blob/master/145.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%90%8E%E5%BA%8F%E9%81%8D%E5%8E%86-%E8%BF%AD%E4%BB%A3%E6%B3%95.js)
-- [掘金][路飞]leetcode145.迭代法进行二叉树的后序遍历](https://juejin.cn/post/7040786675055722509/)
+- [[掘金] [[路飞]leetcode-递归调用解决二叉树的遍历]](https://juejin.cn/post/7031514895333982221/)新增动画实现
+- [[B 站] [145.二叉树的后序遍历]](https://www.bilibili.com/video/BV1pY411W7Gm/)
+- [[github] [迭代法实现二叉树的后续遍历]](https://github.com/MMmaXingXing/Algorithm/blob/master/145.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%90%8E%E5%BA%8F%E9%81%8D%E5%8E%86-%E8%BF%AD%E4%BB%A3%E6%B3%95.js)
+- [[掘金][路飞]leetcode145.迭代法进行二叉树的后序遍历](https://juejin.cn/post/7040786675055722509/)
 
 ### 2021.12.06-2021.12.12 第二周
 
 #### 2021.12.12
 
-- 682.棒球比赛[B 站](https://www.bilibili.com/video/BV1334y197QS/)
-- 20.有效的括号[B 站](https://www.bilibili.com/video/BV15i4y1d7Zy/)
-- 844.比较含退格的字符串[B 站](https://www.bilibili.com/video/BV1nR4y1x7X1/)
-- 1021.删除最外层的括号[B 站](https://www.bilibili.com/video/BV1444y1E73M/)
+- [[B 站]682.棒球比赛](https://www.bilibili.com/video/BV1334y197QS/)
+- [[B 站]20.有效的括号](https://www.bilibili.com/video/BV15i4y1d7Zy/)
+- [[B 站]844.比较含退格的字符串](https://www.bilibili.com/video/BV1nR4y1x7X1/)
+- [[B 站]1021.删除最外层的括号](https://www.bilibili.com/video/BV1444y1E73M/)
 
 #### 2021.12.11
 
 - 船长算法课 30min
-- 249.移除无效的括号-[github]()
 
 #### 2021.12.10
 
