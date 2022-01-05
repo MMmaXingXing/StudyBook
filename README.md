@@ -32,6 +32,13 @@
 
 ## 2022.01
 
+### 2022.01.05
+
+- [[掘金]【二叉数】222.完全二叉树的节点个数](https://juejin.cn/post/7049328124961488933/)
+- [[掘金]二叉树的基本知识点整理](https://juejin.cn/post/7049342110297751588/)
+- [整理StudyBook，将子文件夹任务合并到首页](https://github.com/MMmaXingXing/StudyBook)
+- [介绍一下Javascript的执行上下文?](https://peat-triangle-c48.notion.site/2022-01-04-Javascript-1a4d6597ac304cb89e3fcead3bf09d75)
+
 ### 2022.01.04
 
 - [[github]LeetCode #859 亲密字符串](https://github.com/MMmaXingXing/Algorithm/blob/master/859.%E4%BA%B2%E5%AF%86%E5%AD%97%E7%AC%A6%E4%B8%B2.js)
